@@ -1,4 +1,4 @@
-from discord.ext import commands
+from discord.ext import conds
 import discord
 import random
 
